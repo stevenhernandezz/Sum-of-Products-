@@ -1,0 +1,15 @@
+Command: /home/users5/sah6489/526L/Lab9/./simv -l ErrorForced.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Nov 20 23:41 2023
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+                   0: DATA_IN =  4, A_OUTPUT =  x
+                   5: DATA_IN =  4, A_OUTPUT =  0
+                  15: DATA_IN =  4, A_OUTPUT =  8
+Test 1: A_OUTPUT = 8
+$finish called from file "SumOfProducts_tb.v", line 38.
+$finish at simulation time                  100
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 100 ns
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Mon Nov 20 23:41:17 2023
